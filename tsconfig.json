@@ -1,27 +1,7 @@
 {
   "extends": "./node_modules/gts/tsconfig-google.json",
   "compilerOptions": {
-    "experimentalDecorators": true,
-    "rootDir": ".",
-    "outDir": "build",
-    "allowSyntheticDefaultImports": true,
-    "noImplicitOverride": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "strict": true,
-    "declaration": false,
-    "declarationMap": false,
-    "target": "ESNext",
     "useDefineForClassFields": true,
-    "removeComments": true,
-    "lib": [
-      "ESNext"
-    ],
-    "baseUrl": ".",
-    "paths": {
-      "@core/*": ["src/core/*"],
-      "@data/*": ["src/data/*"],
-      "@locales/*": ["locales/*"]
-    }
   },
   "include": ["src/**/*.ts"],
   "exclude": ["**/*.spec.ts"]

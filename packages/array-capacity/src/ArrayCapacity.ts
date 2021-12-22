@@ -64,6 +64,10 @@ export default class ArrayCapacity<T> extends Array<T> {
     //using Proxy to handle index accessor
     return new Proxy(this, {
       set: (target, key, value: T) => {
+        if(key === 'length') {
+          target.length = Math.max(0, Math.min(value as unknown as number, this.capacity));
+          return true;
+        }
         const index = Number(key);
         if (Number.isNaN(index) || (index >= 0 && index < this.capacity)) {
           if (!Number.isNaN(index)) {

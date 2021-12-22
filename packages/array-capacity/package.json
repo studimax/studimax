@@ -8,6 +8,7 @@
     "typescript",
     "studimax"
   ],
+  "homepage": "https://github.com/studimax/studimax/tree/master/packages/array-capacity",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/studimax/studimax.git",
@@ -19,6 +20,7 @@
     "email": "maxime@studimax.ch"
   },
   "main": "src",
+  "types": "src",
   "scripts": {
     "build": "tsc",
     "clean": "tsc --build --clean",
