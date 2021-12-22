@@ -2,6 +2,11 @@
   "name": "@studimax/elo",
   "version": "1.0.0",
   "description": "Elo rating system",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studimax/studimax.git",
+    "directory": "packages/elo"
+  },
   "license": "MIT",
   "author": {
     "name": "Maxime Scharwath",

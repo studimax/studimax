@@ -1,5 +1,9 @@
 # @studimax/elo
 
+[![npm](https://img.shields.io/npm/v/@studimax/elo)](https://www.npmjs.com/package/@studimax/elo)
+[![Code: TypeScript](https://img.shields.io/badge/made%20with-typescript-blue.svg?logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
+[![Made By: StudiMax](https://img.shields.io/badge/made%20by-studimax-red.svg)](https://github.com/studimax)
+
 Implementation of [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) rating system.
 
 ## Installation

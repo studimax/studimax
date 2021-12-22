@@ -2,6 +2,11 @@
   "name": "@studimax/array-capacity",
   "version": "1.0.0",
   "description": "A fully extended Array with max capacity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studimax/studimax.git",
+    "directory": "packages/array-capacity"
+  },
   "license": "MIT",
   "author": {
     "name": "Maxime Scharwath",

@@ -2,6 +2,11 @@
   "name": "@studimax/logger",
   "version": "1.0.0",
   "description": "A simple log system with configurable transporters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studimax/studimax.git",
+    "directory": "packages/logger"
+  },
   "license": "MIT",
   "author": {
     "name": "Maxime Scharwath",

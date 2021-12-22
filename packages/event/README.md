@@ -1,4 +1,9 @@
 # @studimax/event
+
+[![npm](https://img.shields.io/npm/v/@studimax/event)](https://www.npmjs.com/package/@studimax/event)
+[![Code: TypeScript](https://img.shields.io/badge/made%20with-typescript-blue.svg?logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
+[![Made By: StudiMax](https://img.shields.io/badge/made%20by-studimax-red.svg)](https://github.com/studimax)
+
 A fully typed Node Event system.
 
 ## Installation

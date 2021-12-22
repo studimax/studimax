@@ -1,4 +1,9 @@
 # @studimax/array-capacity
+
+[![npm](https://img.shields.io/npm/v/@studimax/array-capacity)](https://www.npmjs.com/package/@studimax/array-capacity)
+[![Code: TypeScript](https://img.shields.io/badge/made%20with-typescript-blue.svg?logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
+[![Made By: StudiMax](https://img.shields.io/badge/made%20by-studimax-red.svg)](https://github.com/studimax)
+
 A fully extended Array with max capacity
 
 ## Installation

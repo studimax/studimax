@@ -2,6 +2,11 @@
   "name": "@studimax/ts",
   "version": "1.0.0",
   "description": "A simple templating system",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studimax/studimax.git",
+    "directory": "packages/ts"
+  },
   "license": "MIT",
   "author": {
     "name": "Maxime Scharwath",
