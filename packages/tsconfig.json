@@ -1,0 +1,14 @@
+{
+  "extends": "../node_modules/gts/tsconfig-google.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "composite": true,
+    "declarationMap": true,
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": [
+      "esNext"
+    ]
+  }
+}

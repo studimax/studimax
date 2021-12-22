@@ -1,0 +1,36 @@
+{
+  "name": "studimax",
+  "version": "0.0.0",
+  "description": "StudiMax packages",
+  "main": "index.js",
+  "author": "StudiMax",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.7",
+    "gts": "^3.1.0",
+    "jest": "^27.3.1",
+    "jest-leak-detector": "^27.3.1",
+    "lerna": "^4.0.0",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.4.0",
+    "tsconfig-paths": "^3.11.0",
+    "tscpaths": "^0.0.9",
+    "typescript": "^4.5.2",
+    "weak-napi": "^2.0.2"
+  },
+  "scripts": {
+    "build": "yarn workspaces run build",
+    "clean": "yarn workspaces run clean",
+    "fix": "gts fix --fix '**/*.ts'",
+    "lint": "gts lint --fix '**/*.ts'",
+    "test": "jest --detectOpenHandles"
+  },
+  "engines": {
+    "node": ">=14.6.0"
+  }
+}

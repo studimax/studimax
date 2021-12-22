@@ -1,0 +1,20 @@
+{
+  "name": "@studimax/elo",
+  "version": "1.0.0",
+  "description": "Elo rating system",
+  "license": "MIT",
+  "author": {
+    "name": "Maxime Scharwath",
+    "email": "maxime@studimax.ch"
+  },
+  "main": "src",
+  "scripts": {
+    "build": "tsc",
+    "clean": "tsc --build --clean",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=12.9.0"
+  }
+}

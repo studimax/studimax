@@ -1,0 +1,27 @@
+{
+  "name": "@studimax/server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Server",
+  "license": "MIT",
+  "author": {
+    "name": "Maxime Scharwath",
+    "email": "maxime@studimax.ch"
+  },
+  "main": "src",
+  "scripts": {
+    "build": "tsc",
+    "clean": "tsc --build --clean",
+    "test": "jest"
+  },
+  "dependencies": {
+    "path-to-regexp": "^6.2.0",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=12.9.0"
+  }
+}
