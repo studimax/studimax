@@ -1,3 +1,5 @@
-#remove all node_modules
+*/**/coverage
 */**/node_modules
 */**/yarn*
+*/**/*.d.ts*
+*/**/*.js*
