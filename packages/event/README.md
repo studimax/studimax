@@ -1,5 +1,5 @@
 # @studimax/event
-A fully typed Node Event
+A fully typed Node Event system.
 
 ## Installation
 ```bash
