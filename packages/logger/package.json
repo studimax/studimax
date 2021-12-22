@@ -1,6 +1,6 @@
 {
   "name": "@studimax/logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple log system with configurable transporters",
   "keywords": [
     "logger",
