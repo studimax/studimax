@@ -1,6 +1,6 @@
 {
   "name": "@studimax/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple log system with configurable transporters",
   "keywords": [
     "logger",
@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@studimax/ts": "^1.0.0",
+    "@studimax/ts": "^1.0.1",
     "chalk": "4.1.2",
     "fecha": "^4.2.1"
   },
