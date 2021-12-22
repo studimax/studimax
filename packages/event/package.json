@@ -2,6 +2,13 @@
   "name": "@studimax/event",
   "version": "1.0.0",
   "description": "A fully typed Node Event",
+  "keywords": [
+    "event",
+    "node",
+    "typed",
+    "typescript",
+    "studimax"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/studimax/studimax.git",

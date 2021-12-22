@@ -2,6 +2,15 @@
   "name": "@studimax/logger",
   "version": "1.0.0",
   "description": "A simple log system with configurable transporters",
+  "keywords": [
+    "logger",
+    "log",
+    "logging",
+    "transport",
+    "transporter",
+    "typescript",
+    "studimax"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/studimax/studimax.git",

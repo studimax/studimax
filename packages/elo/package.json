@@ -2,6 +2,13 @@
   "name": "@studimax/elo",
   "version": "1.0.0",
   "description": "Elo rating system",
+  "keywords": [
+    "elo",
+    "rating",
+    "rating system",
+    "typescript",
+    "studimax"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/studimax/studimax.git",
