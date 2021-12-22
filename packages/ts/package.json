@@ -18,7 +18,6 @@
     "clean": "tsc --build --clean",
     "test": "jest"
   },
-  "dependencies": {},
   "engines": {
     "node": ">=12.9.0"
   }
